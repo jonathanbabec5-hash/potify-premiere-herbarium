@@ -1,8 +1,16 @@
-# Premiere Herbarium
+# First Cycle premiere NFT design source
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
-**Art collection and metadata exhibit.** Let visitors examine the twenty-five premiere designs while claims are paused.
+## A numbered design and an on-chain record tell different stories
+
+Book I of The POTIFY Chronicle, *The Soil Remembers (Grow Room Version)* and the *From Seed to Smoke* premiere NFT are the First Cycle invitation. The 25 artworks are individual NFT designs. A record describing one design preserves creative intent; it does not prove an NFT was issued to a recipient.
+
+The [collection metadata](metadata/collection.json) and [project checks](tests/project.test.mjs) describe the source package. A metadata URL, local render or transaction simulation is not a confirmed recipient-signed claim. The last verified public claim state was paused.
+
+[Open the free edition](https://potify-first-cycle.wile-e-coyot.chatgpt.site/#edition) for the book and recording. The [premiere page](https://potify-first-cycle.wile-e-coyot.chatgpt.site/premiere/) is the place to check eligibility and current claim information. Do not infer mint availability from this repository.
+
+**Source package.** The 25 artworks are individual NFT designs.
 
 ### Setup and usage
 
@@ -12,7 +20,7 @@ Use Node.js 24 for the included checks. Use Python 3 for the local static previe
 python3 -m http.server 8000 --bind 127.0.0.1 --directory public
 ```
 
-Browse the exhibit. Open http://127.0.0.1:8000/ in a browser. 
+For local maintenance, open http://127.0.0.1:8000/ in a browser.
 
 ### Developer entry points
 
