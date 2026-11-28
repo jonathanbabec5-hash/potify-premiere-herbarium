@@ -1,5 +1,13 @@
 # First Cycle premiere NFT design source
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| An art explorer | [Inspect collection metadata](metadata/collection.json) | Explore the source records for the 25 designs. |
+| A reader or listener | [Open the free edition](https://potify-first-cycle.wile-e-coyot.chatgpt.site/#edition) | Find the book and Grow Room recording. |
+| A prospective recipient | [Check the premiere page](https://potify-first-cycle.wile-e-coyot.chatgpt.site/premiere/) | Review current information; the last verified claim state was paused. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## A numbered design and an on-chain record tell different stories
